@@ -16,10 +16,9 @@ body {
 
 header {
 	display: block;
-	height: 78px;
+	height: 62px;
 	background: url(../images/steps.png) center center no-repeat, -webkit-gradient(linear, 0% 0%, 0% 100%, from(#696767), to(#3a3a39));
 	background: url(../images/steps.png) center center no-repeat, -moz-linear-gradient(top, #696767, #3a3a39);
-	
 	border-top: 1px solid #3e3e3e;
 	border-bottom: 1px solid #1b1b1a;
 }
@@ -43,8 +42,8 @@ footer li {
 }
 
 #map {
-	width: 1920px;
-	height: 960px;
+	width: 1280px;
+	height: 699px;
 	background: url(../images/map.png) no-repeat;
 }
 
@@ -81,12 +80,12 @@ footer li {
 	position: absolute;
 	top: 0;
 	left: 0;
-	height: 76px;
-	line-height: 76px;
-	width: 78px;
+	height: 61px;
+	line-height: 61px;
+	width: 63px;
 	border: 1px solid #925e02;
 	background: url(../images/timer.png) 0 0 no-repeat;
-	font-size: 30px;
+	font-size: 25px;
 	font-weight: bold;
 	color: #4b3309;
 	text-shadow: 1px 1px 0 #fff;
